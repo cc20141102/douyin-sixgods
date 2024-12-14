@@ -7,4 +7,4 @@
 
 不做播放量、直播间业务，做业务的自己拿算法研究。
 
-tg:@Chch0hchC
+telegram:@Chch0hchC
