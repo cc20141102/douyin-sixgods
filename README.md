@@ -1,5 +1,5 @@
 # douyin-sixgods
-抖音IOS/Android六神x-argus.x-gorgon.x-khronos.x-ladon.x-helios.x-medusa，仅算法交流，业务勿扰
+抖音IOS/Android六神x-argus.x-gorgon.x-khronos.x-ladon.x-helios.x-medusa，仅算法交流
 
 六神算法32.6最新版本
 
