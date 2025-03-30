@@ -9,7 +9,7 @@
 
 做业务的自己拿算法研究。
 
-Telegram:@Chch0hchC
+telegram:@Chch0hchC
 
 
 
