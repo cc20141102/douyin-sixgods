@@ -1,7 +1,7 @@
 # douyin-sixgods
 抖音IOS/Android六神x-argus.x-gorgon.x-khronos.x-ladon.x-helios.x-medusa
 
-抖音六神算法安卓最新版本33.0
+抖音六神算法安卓最新版本33.9
 设备注册，能上人气的设备,人气协议
 
 
